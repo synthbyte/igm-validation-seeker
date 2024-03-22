@@ -1,0 +1,18 @@
+Let's make a game!
+	name:Validation Seeker
+	author:synthbyte
+	desc:Survive the Internet.
+	created:22/03/2024
+	updated:22/03/2024
+	version:0.1.0
+
+Resources
+	*validation
+		name:Validation
+		desc:A measurement of success. Get as much as possible!
+
+Buttons
+	*drawPicture
+		name:Draw a picture
+		desc:Draw something for views and comments!
+		on click:yield 1 validation
